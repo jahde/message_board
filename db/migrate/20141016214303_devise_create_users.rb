@@ -38,5 +38,11 @@ class DeviseCreateUsers < ActiveRecord::Migration
     add_index :users, :reset_password_token, unique: true
     # add_index :users, :confirmation_token,   unique: true
     # add_index :users, :unlock_token,         unique: true
+    
+    create_table :articles do |t|
+      t.belongs_to :user
+      t.datetime :article_date
+      t.timestamps
+    end
   end
 end

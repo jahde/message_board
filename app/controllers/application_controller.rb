@@ -10,7 +10,13 @@ class ApplicationController < ActionController::Base
     end
   end
   
-  def create
-    @user = User.find(params[:id])
+  def new
+    @user = User.new
   end
+
+=begin
+  #def create
+    #@user = User.find(params[:id])
+  #end
+=end
 end
