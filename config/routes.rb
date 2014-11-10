@@ -1,10 +1,13 @@
 MessageBoard::Application.routes.draw do
+  get "replies/index"
   devise_for :users
   get "home/index"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
-  resources :articles, :replies
+  resources :articles do
+    resources :replies, shallow: true
+  end
 
   # You can have the root of your site routed with "root"
   root 'home#index'
