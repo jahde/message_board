@@ -8,9 +8,16 @@
 </p>
 
 <p>
-	On <%= @article.created_at.strftime("%B %d %Y") %>
+	On <%= @article.created_at.strftime("%B %d %Y, %l:%M%P") %>
 </p>
 
+<br>
 <p>
 	<h4><%= @article.text %></h4>
 </p>
+
+<%= link_to 'New reply', new_article_path, :class => 'btn btn-info' %>
+<br>
+
+<br><%= link_to 'Back', articles_path %>
+|	<%= link_to 'Edit', edit_article_path(@article) %>

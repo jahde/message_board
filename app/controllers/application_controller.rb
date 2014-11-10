@@ -14,9 +14,7 @@ class ApplicationController < ActionController::Base
     @user = User.new
   end
 
-=begin
-  #def create
-    #@user = User.find(params[:id])
-  #end
-=end
+  def create
+    @user = User.find(params[:id])
+  end
 end

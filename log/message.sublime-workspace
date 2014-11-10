@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"task",
+				"tasks_path"
+			],
+			[
+				"theme",
+				"sublime-theme"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			]
+		],
+		"width": 434.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Work1/Programming/rails/railsbridge/message_board"
+	],
+	"file_history":
+	[
+		"/Users/Work1/Programming/rails/tutorials/oncourse/app/models/course.rb",
+		"/Users/Work1/Programming/rails/tutorials/oncourse/config.ru",
+		"/Users/Work1/Programming/rails/tutorials/oncourse/test/controllers/courses_controller_test.rb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/app/views/layouts/application.html.erb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/config/initializers/inflections.rb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/app/models/task.rb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/app/views/tasks/index.html.erb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/app/views/tasks/edit.html.erb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/app/views/tasks/_form.html.erb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/app/views/edit.html.erb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/app/views/tasks/_form",
+		"/Users/Work1/Programming/rails/tutorials/tasks/Gemfile",
+		"/Users/Work1/Programming/rails/tutorials/tasks/config/routes.rb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/config/initializers/filter_parameter_logging.rb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/config/initializers/mime_types.rb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/db/migrate/20141108151630_create_tasks.rb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/spec/rails_helper.rb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/spec/spec_helper.rb",
+		"/Users/Work1/Programming/rails/tutorials/tasks/Rakefile",
+		"/Users/Work1/Programming/rails/tutorials/tasks/Guardfile",
+		"/Users/Work1/Programming/rails/tutorials/tasks/Gemfile.lock",
+		"/usr/local/rvm/gems/ruby-2.1.3/bundler/gems/tanker-e7fb6c5c9523/lib/tanker.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/Gemfile",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/tankercheck.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/secret_token.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/session_store.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/asset_sync.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/backtrace_silencers.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/bitly.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/devise.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/inflections.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/mime_types.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/paperclip.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/rich.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/tanker.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/timeout.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/wrap_parameters.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/vendor/assets/javascripts/inheritance.js",
+		"/Users/Work1/Programming/rails/day/allday-site/app/models/image.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/app/models/contact.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/app/models/event.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/tmp/cache/sass/9db2afaee1d61c935c3ae41c65e9610dc8e44010/_link_block.css.scssc",
+		"/Users/Work1/Programming/rails/day/allday-site/tmp/mongodump/allday-site-production/delayed_backend_mongoid_jobs.bson",
+		"/Users/Work1/Programming/rails/day/allday-site/app/AllDay.sublime-project",
+		"/Users/Work1/Programming/rails/day/allday-site/script/rails",
+		"/Users/Work1/Programming/rails/day/allday-site/config/initializers/rails_admin.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/Rakefile",
+		"/Users/Work1/Programming/rails/day/allday-site/config.ru",
+		"/Users/Work1/Programming/rails/day/allday-site/app/models/text.rb",
+		"/Users/Work1/Programming/rails/day/allday-site/config/environment.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/config/routes.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/config/environment.rb",
+		"/Users/Work1/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Work1/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Work1/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Work1/Library/Application Support/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/Users/Work1/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"visit",
+			"tank",
+			"tanker",
+			"new",
+			"new_file",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "message.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"course_test",
+				"test/models/course_test.rb"
+			],
+			[
+				"index",
+				"app/views/tasks/index.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"guard",
+				"Guardfile"
+			],
+			[
+				"gemfile.",
+				"Gemfile.lock"
+			],
+			[
+				"export",
+				"config/exportr.yaml"
+			],
+			[
+				"event",
+				"app/models/event.rb"
+			],
+			[
+				"rails_ad",
+				"config/initializers/rails_admin.rb"
+			],
+			[
+				"contact",
+				"app/models/contact.rb"
+			],
+			[
+				"tank",
+				"config/initializers/tanker.rb"
+			],
+			[
+				"expor",
+				"config/exportr.yaml"
+			],
+			[
+				"user",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"message",
+				"~/Programming/rails/railsbridge/message_board/log/untitled.sublime-workspace"
+			],
+			[
+				"",
+				"~/Programming/rails/railsbridge/message_board/log/untitled.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
