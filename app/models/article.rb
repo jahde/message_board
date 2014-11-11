@@ -5,6 +5,3 @@ class Article < ActiveRecord::Base
   has_many :replies
 end
 
-class Reply < ActiveRecord::Base
-  belongs_to :article
-end

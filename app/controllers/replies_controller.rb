@@ -1,13 +1,20 @@
 class RepliesController < ApplicationController
+    def index
+      @article = Article.find(params[:article_id])
+      @replies = @article.replies
+    end
+
     def new
+      @article = Article.find(params[:article_id])
       @reply = Reply.new
     end
 
     def create
-      @reply = Reply.new(reply_params)
+      @article = Article.find(params[:article_id])
+      @reply = @article.replies.build(reply_params)
 
       if @reply.save
-        redirect_to @reply
+        redirect_to @article
       else
         render 'new'
       end
@@ -15,10 +22,6 @@ class RepliesController < ApplicationController
 
     def show
       @reply = Reply.find(params[:id])
-    end
-
-    def index
-      @replys = Reply.all
     end
 
     def edit
@@ -44,6 +47,6 @@ class RepliesController < ApplicationController
 
     private
       def reply_params
-        params.require(:reply).permit(:title, :text)
+        params.require(:reply).permit(:text, :article_id)
       end
   end
