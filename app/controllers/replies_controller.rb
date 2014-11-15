@@ -12,6 +12,7 @@ class RepliesController < ApplicationController
     def create
       @article = Article.find(params[:article_id])
       @reply = @article.replies.build(reply_params)
+      @reply.user_id = current_user.id
 
       if @reply.save
         redirect_to @article

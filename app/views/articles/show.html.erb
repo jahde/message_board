@@ -4,7 +4,7 @@
 
 <p>
 	Posted by:
-	<strong><%= current_user.email %></strong>
+	<strong><%= @article.user.email %></strong>
 </p>
 
 <p>
@@ -16,8 +16,28 @@
 	<h4><%= @article.text %></h4>
 </p>
 
-<%= link_to 'New reply', new_article_reply_path(@article, @reply), :class => 'btn btn-info' %>
+<br><%= link_to 'Back', articles_path %>
+| <%= link_to 'Edit', edit_article_path(@article) %>
+<br>
 <br>
 
-<br><%= link_to 'Back', articles_path %>
-|	<%= link_to 'Edit', edit_article_path(@article) %>
+<hr width="98%" align="center" size="200" noshade>
+
+<h2>Replies</h2>
+<% @article.replies.each do |reply| %>
+  <ul>
+    <li><%= reply.text %></li>
+    <li>--<%=  reply.user.email %></li>
+  </ul>
+<% end %>
+
+<%= render 'formreply' %>
+
+<%# <%= link_to 'Back', articles_path %>
+
+<%# <%= link_to 'New reply', new_article_reply_path(@article, @reply), :class => 'btn btn-info' %>
+
+
+
+
+

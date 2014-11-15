@@ -3,4 +3,5 @@ class Reply < ActiveRecord::Base
                     length: { minimum: 5 }
 
   belongs_to :article
+  belongs_to :user
 end

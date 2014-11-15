@@ -5,6 +5,8 @@ class ArticlesController < ApplicationController
 
   def create
     @article = Article.new(article_params)
+    @article.user_id = current_user.id
+    # >> this doesn't do anything. User_id is saved at model level
 
     if @article.save
       redirect_to @article
@@ -15,6 +17,10 @@ class ArticlesController < ApplicationController
 
   def show
     @article = Article.find(params[:id])
+
+    # Taken from RepliesController @new
+    # @article = Article.find(params[:article_id])
+    @reply = Reply.new
   end
 
   def index
@@ -44,6 +50,6 @@ class ArticlesController < ApplicationController
 
   private
     def article_params
-      params.require(:article).permit(:title, :text)
+      params.require(:article).permit(:title, :text, :user_id)
     end
 end
