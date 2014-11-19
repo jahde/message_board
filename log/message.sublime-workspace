@@ -24,50 +24,34 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers/replies_controller.rb",
+			"file": "/Users/Work1/Programming/rails/railsbridge/frontend/hello.html",
 			"settings":
 			{
-				"buffer_size": 992,
+				"buffer_size": 1068,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers/articles_controller.rb",
+			"file": "/Users/Work1/Programming/rails/railsbridge/frontend/index.html",
 			"settings":
 			{
-				"buffer_size": 783,
+				"buffer_size": 2374,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/show.html.erb",
+			"file": "/Users/Work1/Programming/rails/railsbridge/frontend/resources/javascript.js",
 			"settings":
 			{
-				"buffer_size": 642,
+				"buffer_size": 285,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/_form.html.erb",
+			"file": "/Users/Work1/Programming/rails/railsbridge/frontend/resources/layout.css",
 			"settings":
 			{
-				"buffer_size": 582,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/Work1/Programming/rails/railsbridge/message_board/db/schema.rb",
-			"settings":
-			{
-				"buffer_size": 1852,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/Work1/Programming/rails/railsbridge/message_board/app/models/article.rb",
-			"settings":
-			{
-				"buffer_size": 224,
+				"buffer_size": 1173,
 				"line_ending": "Unix"
 			}
 		}
@@ -138,42 +122,57 @@
 	[
 		"/Users/Work1/Programming/rails/railsbridge/message_board",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/helpers",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/models",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/devise/mailer",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/devise/shared",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/layouts",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/replies",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/db"
+		"/Users/Work1/Programming/rails/railsbridge/message_board/bin",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/config",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/config/environments",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/config/locales",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/db",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/db/migrate"
 	],
 	"file_history":
 	[
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/_form.html.erb",
+		"/Users/Work1/Programming/rails/railsbridge/frontend/index.html",
+		"/Users/Work1/Programming/rails/railsbridge/frontend/hello.html",
+		"/Users/Work1/Programming/rails/railsbridge/frontend/blank.html",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers/replies_controller.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/show.html.erb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/layouts/application.html.erb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/_formreply.html.erb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/replies/_form.html.erb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/replies/new.html.erb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers/articles_controller.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/new.html.erb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/config/routes.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/_form.html.erb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/models/reply.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/models/article.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/index.html.erb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/db/migrate/20141114235924_add_user_id_to_replies.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/db/schema.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/db/migrate/20141112194910_add_user_id_to_articles.rb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/models/user.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/db/migrate/20141111015612_add_article_id_to_replies.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/test/models/article_test.rb",
+		"/Users/Work1/Programming/rails/railsbridge/message_board/config/application.rb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/db/test.sqlite3",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/db/seeds.rb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/db/development.sqlite3",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/models/article.rb",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/index.html.erb",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers/articles_controller.rb",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/db/migrate/20141111015612_add_article_id_to_replies.rb",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/db/schema.rb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers/application_controller.rb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/edit.html.erb",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/new.html.erb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/replies/index.html.erb",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/replies/new.html.erb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/models/.keep",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/db/migrate/20141110220418_add_column_to_table.rb",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/config/routes.rb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/db/migrate/20141110181247_create_replies.rb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/db/migrate/20141027163832_create_articles.rb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/db/migrate/20141016214303_devise_create_users.rb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/home/index.html.erb",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/layouts/application.html.erb",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers/replies_controller.rb",
-		"/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/show.html.erb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers/home_controller.rb",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/assets/stylesheets/application.css.scss",
 		"/Users/Work1/Programming/rails/railsbridge/message_board/app/assets/stylesheets/messages.css.scss",
@@ -243,7 +242,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -258,6 +257,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"current_user",
+			":user_id",
+			"user_id",
+			"author",
+			"user_id",
+			"article_id",
 			"article",
 			"visit",
 			"tank",
@@ -283,24 +288,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers/replies_controller.rb",
+					"file": "/Users/Work1/Programming/rails/railsbridge/frontend/hello.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 992,
+						"buffer_size": 1068,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								524,
-								524
+								1055,
+								1055
 							]
 						],
 						"settings":
@@ -366,32 +371,32 @@
 								"bh_round_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright.tmTheme",
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 77.0,
+						"translation.y": 99.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/Work1/Programming/rails/railsbridge/message_board/app/controllers/articles_controller.rb",
+					"file": "/Users/Work1/Programming/rails/railsbridge/frontend/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 783,
+						"buffer_size": 2374,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								292,
-								292
+								146,
+								146
 							]
 						],
 						"settings":
@@ -457,7 +462,7 @@
 								"bh_round_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright.tmTheme",
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -465,16 +470,105 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/show.html.erb",
+					"file": "/Users/Work1/Programming/rails/railsbridge/frontend/resources/javascript.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 642,
+						"buffer_size": 285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Work1/Programming/rails/railsbridge/frontend/resources/layout.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1173,
 						"regions":
 						{
 						},
@@ -548,283 +642,14 @@
 								"bh_round_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright.tmTheme",
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/Work1/Programming/rails/railsbridge/message_board/app/views/articles/_form.html.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 582,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"apply_syntax_touched": true,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright.tmTheme",
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0.0,
+						"translation.x": 13.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/Work1/Programming/rails/railsbridge/message_board/db/schema.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1852,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"apply_syntax_touched": true,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright.tmTheme",
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 17.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/Work1/Programming/rails/railsbridge/message_board/app/models/article.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 224,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"apply_syntax_touched": true,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright.tmTheme",
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -876,6 +701,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"route",
+				"config/routes.rb"
+			],
 			[
 				"course_test",
 				"test/models/course_test.rb"
